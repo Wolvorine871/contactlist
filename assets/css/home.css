@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    /* text-align: center; */
+}
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
+#contact-box{
+    text-align: center;
+    width: fit-content;
+    padding:0 0 0 43%;
+    /* margin: 0 40% 0 45%; */
+}
+
+#contact-box ul{
+    list-style: none;
+    background-color: lightblue;
+
+}
